@@ -7,6 +7,5 @@
 <img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-09-22%20в%2001.09.49.png" width="800" height="500"/>
 <img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-09-26%20в%2012.32.07.png" width="800" height="500"/>
 <img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-09-27%20в%2011.24.19.png" width="400" height="700"/>
-<img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-09-27%20в%2011.25.56.png" width="800" height="500"/>
-
+<img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-09-27%20в%2011.35.56.png" width="800" height="500"/>
 
