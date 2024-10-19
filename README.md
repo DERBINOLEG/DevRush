@@ -12,5 +12,6 @@
 <img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-09-30%20в%2002.31.14.png" width="400" height="700"/>   <img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-10-13%20в%2022.32.59.png" width="400" height="700"/>
 <img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-09-30%20в%2002.31.47.png" width="800" height="500"/>
 <img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-10-11%20в%2022.26.34.png" width="400" height="700"/>   <img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-10-11%20в%2022.26.40.png" width="400" height="700"/>
-
+<img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-10-14%20в%2018.38.01.png" width="400" height="700"/>   <img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-10-19%20в%2015.01.27.png" width="400" height="700"/>
+<img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-10-19%20в%2015.02.54.png" width="400" height="700"/>   <img src="https://github.com/DERBINOLEG/DevRush/blob/main/.screenshots/Снимок%20экрана%202024-10-19%20в%2014.42.10.png" width="400" height="700"/>
 
